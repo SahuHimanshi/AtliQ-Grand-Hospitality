@@ -1,4 +1,4 @@
-# AtliQ-Grand-Hospitality
+
 
 # AtliQ Grand Hospitality Analysis
 
@@ -6,9 +6,8 @@
 
 AtliQ Grand is a premier luxury hotel chain in India, facing challenges in a competitive hospitality industry. This project leverages **Power BI** to analyze operational data and provide **data-driven insights** for strategic decision-making.
 
-🔗 Live Dashboard
+🔗 LIVE DASHBOARD
 
-LIVE DASHBOARD
 
 ## 🔍 Objectives
 
